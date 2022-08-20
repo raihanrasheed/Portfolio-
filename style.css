@@ -1,0 +1,206 @@
+header{
+
+    position: fixed;
+    top:0; left: 0;
+    z-index: 1000;
+    height: 100%;
+    background-color:  rgba(143, 93, 116, 0.347);;
+
+
+}
+ 
+ .user img{
+   border: .7 black;
+    margin-top: 21%;
+    height: 200px;
+    width: 200px;
+    border-radius:50%;
+    margin-left: 20px;
+    margin-right: 15px;
+  
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(33, 9, 55, 0.618);
+    margin-left: 7%;
+    font-size: 25px;
+} 
+li{
+color: black;
+
+margin-left: 10%;
+font-size: 25px;
+list-style: none;
+
+}
+#hr{
+    width: 100%;
+    padding-left: 0%;
+    color: black;
+}
+.navbar a{
+    margin: 10%;
+    padding-left: 22%;
+    display: block;
+    color: rgba(85, 14, 96, 0.84);
+   border-radius: 36px;
+   border-bottom: 5px solid rgba(57, 29, 35, 0.886);
+   font-family: "Lucida Console", "Courier New", monospace;
+   text-decoration: none;
+   font-size: 22px;
+}
+ a:hover{
+ 
+   text-decoration: none;}
+ p{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+margin-left: 22%;
+    font-size: 22px;
+    padding-right: 50%;
+   
+ }
+ p1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-left: 20%;
+        font-size: 20px;
+        
+       
+     }
+
+ h1{
+    color: #000;
+ font-family:'Courier New', Courier, monospace;
+
+font-size: 33px;
+margin-left: 22%;
+
+ }
+
+ span{
+    color:rgb(64, 37, 88) ;
+ }
+ .home{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 30%;
+     padding-left: 300px;
+    padding-top: 10%;
+    padding-right: 100px;
+
+ }
+ body{
+   background-image: url(img2.png);
+    width: 100%;
+    height: 100%;
+    background-color: 
+    rgb(236, 198, 216);
+ }
+ 
+
+    .about{
+        font-family: 'Courier New', Courier, monospace;
+        color: blueviolet;
+        margin-left: 4%;
+        font-size: 33px;
+        
+        margin-top: 25%;
+        padding-top: 3px;
+        margin-bottom: 200px;
+    }   
+      
+    .about h1{
+        padding-left: %;
+    }
+     .about h2{
+        padding-left: 20%;
+     }
+     .info h2{
+        font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: #000;
+        font-size: 22px;
+     }
+     .projects{
+        margin-top: 15%;
+        padding-top: 50px;
+         padding-bottom:160px ;
+         padding-left: 25%;
+     }
+     
+     .projects h2{
+        font-size: 22px;
+        color: black;
+        padding-left: 2px;
+     }
+     .projects a{
+        border-radius: 20px;
+        width: 80px;
+        height: 30px;
+        background-color: rgb(198, 148, 159);
+        display: block;
+        padding-left: 18px;
+        padding-top: 8px;
+        margin-top: 10px;
+       display: block;
+       text-decoration: none;
+      
+     }
+     .awards {
+        margin-top: 3%;
+        padding-top: 30px;
+         padding-bottom:10px ;
+         padding-left: 2%;
+        
+     }
+
+     .awards a{
+        font-size: 22px;
+        border-radius: 20px;
+        width: 150px;
+        height: 30px;
+        background-color: rgb(198, 148, 159);
+        display: block;
+        padding-left: 13px;
+        padding-top: 0px;
+        margin-top: 4px;
+       display: block;
+       margin-left: 400px;
+       text-decoration: none ;
+       text-decoration: none;
+     }
+     .picture img{
+     
+        padding-left: 400px;
+     
+        padding-top: 4px;
+        
+         
+        width: 600px;
+        
+     }
+     .contant{
+      margin-top: 11%;
+      padding-top: 10px;
+       padding-bottom:100px ;
+       padding-left: 20%;
+       margin-bottom: 200px;
+     }
+     .contant a{
+      border-radius: 20px;
+      width: 80px;
+      height: 30px;
+      background-color: rgb(198, 148, 159);
+      display: block;
+      padding-left: 33px;
+      padding-top: 8px;
+      margin-top: 33px;
+     display: block;
+     margin-left: 100px;
+     text-decoration: none;
+     
+     }
+     
+     .home h1{
+      color: blueviolet;
+     }
+  
